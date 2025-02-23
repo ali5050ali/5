@@ -5,8 +5,8 @@ const questions = [
     { question: 'پیامبر در کدام شهر به دنیا آمد؟', options: ['سوریه', 'کربلا', 'مکه', 'مدینه'], correct: 2 },
     { question: 'هرسال چند فصل دارد؟', options: ['سه', 'چهار', 'دو', 'پنج'], correct: 1 },
      { question: 'نام یکی از شهر های شمال؟', options: ['تهران', 'آستارا', 'کرمان', 'شیراز'], correct: 1 },
-     { question: 'مخالف خوشحال است؟', options: ['شاد', 'مهربان', 'ناراحت', 'مهر'], correct: 2 },
-    { question: 'منزل یعنی چه؟', options: ['اتاق', 'حیاط', 'خانه', 'مدرسه'], correct: 2 },
+     { question: 'مخالف خوشحال است؟', options: ['شاد', 'مهربان', 'ناراحت', 'مهر'], correct: 1 },
+    { question: 'منزل یعنی چه؟', options: ['اتاق', 'حیاط', 'خانه', 'مدرسه'], correct: 1 },
 ];
 
 let currentQuestion = 0;
